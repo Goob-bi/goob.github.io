@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Name 2</Name>
+    <Phone>000-000-0000</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main Street</Street>
+      <City>City Name</City>
+      <State>ST</State>
+      <Zip>00000</Zip>
+      <NearestAirport>Airport Name</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Name 3</Name>
+    <Phone>000-000-0000</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main Street</Street>
+      <City>City Name</City>
+      <State>ST</State>
+      <Zip>00000</Zip>
+      <NearestAirport>Airport Name</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Name 4</Name>
+    <Phone>000-000-0000</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main Street</Street>
+      <City>City Name</City>
+      <State>ST</State>
+      <Zip>00000</Zip>
+      <NearestAirport>Airport Name</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Name 5</Name>
+    <Phone>000-000-0000</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main Street</Street>
+      <City>City Name</City>
+      <State>ST</State>
+      <Zip>00000</Zip>
+      <NearestAirport>Airport Name</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Name 6</Name>
+    <Phone>000-000-0000</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main Street</Street>
+      <City>City Name</City>
+      <State>ST</State>
+      <Zip>00000</Zip>
+      <NearestAirport>Airport Name</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Name 7</Name>
+    <Phone>000-000-0000</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main Street</Street>
+      <City>City Name</City>
+      <State>ST</State>
+      <Zip>00000</Zip>
+      <NearestAirport>Airport Name</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Name 8</Name>
+    <Phone>000-000-0000</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main Street</Street>
+      <City>City Name</City>
+      <State>ST</State>
+      <Zip>00000</Zip>
+      <NearestAirport>Airport Name</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Name 9</Name>
+    <Phone>000-000-0000</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main Street</Street>
+      <City>City Name</City>
+      <State>ST</State>
+      <Zip>00000</Zip>
+      <NearestAirport>Airport Name</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Name 10</Name>
+    <Phone>000-000-0000</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main Street</Street>
+      <City>City Name</City>
+      <State>ST</State>
+      <Zip>00000</Zip>
+      <NearestAirport>Airport Name</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Name 11</Name>
+    <Phone>000-000-0000</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main Street</Street>
+      <City>City Name</City>
+      <State>ST</State>
+      <Zip>00000</Zip>
+      <NearestAirport>Airport Name</NearestAirport>
+    </Address>
+  </Hotel>
+
+</Hotels>
