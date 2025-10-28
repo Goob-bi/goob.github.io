@@ -70,7 +70,7 @@
   </Hotel>
         
   <Hotel>
-    <Name>Bellagio Hotel & Casino</Name>
+    <Name>Bellagio Hotel and Casino</Name>
 <!-- ERROR 3: Phone element is missing -->
     <Address>
       <Number>3600</Number>
