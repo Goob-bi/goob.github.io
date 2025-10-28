@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- ERROR 1: Root element is "Hotel" instead of "Hotels" -->
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="Hotels.xsd">
 
@@ -38,6 +39,7 @@
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
+<!-- ERROR 2: Missing required NearestAirport element -->
     </Address>
   </Hotel>
         
@@ -69,6 +71,7 @@
         
   <Hotel>
     <Name>Bellagio Hotel & Casino</Name>
+<!-- ERROR 3: Phone element is missing -->
     <Address>
       <Number>3600</Number>
       <Street>S Las Vegas Blvd</Street>
@@ -76,6 +79,7 @@
       <State>NV</State>
       <Zip>89109</Zip>
       <NearestAirport>Harry Reid International Airport</NearestAirport>
+    </Address>
   </Hotel>
         
   <Hotel>
@@ -88,7 +92,7 @@
       <State>FL</State>
       <Zip>33140</Zip>
       <NearestAirport>Miami International Airport</NearestAirport>
-    </Address>
+<!-- ERROR 4: Address element has no closing tag -->
   </Hotel>
         
   <Hotel>
@@ -105,6 +109,7 @@
   </Hotel>
         
   <Hotel>
+<!-- ERROR 5: Two Name elements provided -->
     <Name>Hotel Monteleone</Name>
     <Name>Hotel Monteleone</Name>
     <Phone>504-523-3341</Phone>
