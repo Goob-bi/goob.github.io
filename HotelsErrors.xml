@@ -86,6 +86,7 @@
       <City>Miami Beach</City>
       <State>FL</State>
       <Zip>33140</Zip>
+    </Address>
 <!-- ERROR 4: Address element has no closing tag -->
   </Hotel>
         
