@@ -5,23 +5,23 @@
   <xsd:element name="Hotels">
     <xsd:complexType>
       <xsd:sequence>
-        <xsd:element name="Hotel" type="Hotel" minOccurs="0" maxOccurs="unbounded"/>
+        <xsd:element name="Hotel" type="HotelType" minOccurs="0" maxOccurs="unbounded"/>
       </xsd:sequence>
     </xsd:complexType>
   </xsd:element>
 
   <!-- Hotel complex type -->
-  <xsd:complexType name="Hotel">
+  <xsd:complexType name="HotelType">
     <xsd:sequence>
       <xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-      <xsd:element name="Phone" type="xsd:string" maxOccurs="unbounded"/>
-      <xsd:element name="Address" type="Address" minOccurs="1" maxOccurs="1" />
+      <xsd:element name="Phone" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
+      <xsd:element name="Address" type="AddressType" minOccurs="1" maxOccurs="1" />
     </xsd:sequence>
     <xsd:attribute name="Rating" type="xsd:string" use="optional"/>
   </xsd:complexType>
 
   <!-- Address complex type -->
-  <xsd:complexType name="Address">
+  <xsd:complexType name="AddressType">
     <xsd:sequence>
       <xsd:element name="Number" type="xsd:string" minOccurs="1" maxOccurs="1"/>
       <xsd:element name="Street" type="xsd:string" minOccurs="1" maxOccurs="1"/>
