@@ -6,143 +6,132 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E. 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel Rating="4.4">
     <Name>TownePlace Suites</Name>
     <Phone>916-419-8811</Phone>
-    <Address>
+    <Address NearestAirport="Sacramento International Airport">
       <Number>4090</Number>
       <Street>East Commerce Way</Street>
       <City>Sacramento</City>
       <State>CA</State>
       <Zip>95834</Zip>
-      <NearestAirport>Sacramento International</NearestAirport>
     </Address>
   </Hotel>
 
   <Hotel>
     <Name>The Plaza Hotel</Name>
     <Phone>212-759-3000</Phone>
-    <Address>
+    <Address NearestAirport="LaGuardia Airport">
       <Number>768</Number>
       <Street>Fifth Avenue</Street>
       <City>New York</City>
       <State>NY</State>
       <Zip>10019</Zip>
-      <NearestAirport>LaGuardia Airport</NearestAirport>
     </Address>
   </Hotel>
         
   <Hotel>
     <Name>The Beverly Hills Hotel</Name>
     <Phone>310-276-2251</Phone>
-    <Address>
+    <Address NearestAirport="Los Angeles International Airport">
       <Number>9641</Number>
       <Street>Sunset Blvd</Street>
       <City>Beverly Hills</City>
       <State>CA</State>
       <Zip>90210</Zip>
-      <NearestAirport>Los Angeles International Airport</NearestAirport>
     </Address>
   </Hotel>
         
   <Hotel>
     <Name>The Drake Hotel</Name>
     <Phone>312-787-2200</Phone>
-    <Address>
+    <Address NearestAirport="O'Hare International Airport">
       <Number>140</Number>
       <Street>E Walton Pl</Street>
       <City>Chicago</City>
       <State>IL</State>
       <Zip>60611</Zip>
-      <NearestAirport>O'Hare International Airport</NearestAirport>
     </Address>
   </Hotel>
         
   <Hotel>
     <Name>Bellagio Hotel and Casino</Name>
     <Phone>888-987-6667</Phone>
-    <Address>
+    <Address NearestAirport="Harry Reid International Airport">
       <Number>3600</Number>
       <Street>S Las Vegas Blvd</Street>
       <City>Las Vegas</City>
       <State>NV</State>
       <Zip>89109</Zip>
-      <NearestAirport>Harry Reid International Airport</NearestAirport>
     </Address>
   </Hotel>
         
   <Hotel>
     <Name>Fontainebleau Miami Beach</Name>
     <Phone>305-538-2000</Phone>
-    <Address>
+    <Address NearestAirport="Miami International Airport">
       <Number>4441</Number>
       <Street>Collins Ave</Street>
       <City>Miami Beach</City>
       <State>FL</State>
       <Zip>33140</Zip>
-      <NearestAirport>Miami International Airport</NearestAirport>
     </Address>
   </Hotel>
         
   <Hotel>
     <Name>Fairmont San Francisco</Name>
     <Phone>415-772-5000</Phone>
-    <Address>
+    <Address NearestAirport="San Francisco International Airport">
       <Number>950</Number>
       <Street>Mason St</Street>
       <City>San Francisco</City>
       <State>CA</State>
       <Zip>94108</Zip>
-      <NearestAirport>San Francisco International Airport</NearestAirport>
     </Address>
   </Hotel>
         
   <Hotel>
     <Name>Hotel Monteleone</Name>
     <Phone>504-523-3341</Phone>
-    <Address>
+    <Address NearestAirport="Louis Armstrong New Orleans International Airport">
       <Number>214</Number>
       <Street>Royal St</Street>
       <City>New Orleans</City>
       <State>LA</State>
       <Zip>70130</Zip>
-      <NearestAirport>Louis Armstrong New Orleans International Airport</NearestAirport>
     </Address>
   </Hotel>
         
   <Hotel>
     <Name>The Liberty, a Luxury Collection Hotel</Name>
     <Phone>617-224-4000</Phone>
-    <Address>
+    <Address NearestAirport="Logan International Airport</Neares">
       <Number>215</Number>
       <Street>Charles St</Street>
       <City>Boston</City>
       <State>MA</State>
       <Zip>02114</Zip>
-      <NearestAirport>Logan International Airport</NearestAirport>
     </Address>
   </Hotel>
         
   <Hotel>
     <Name>The Edgewater Hotel</Name>
     <Phone>206-728-7000</Phone>
-    <Address>
+    <Address NearestAirport="Seattle-Tacoma International Airport">
       <Number>2411</Number>
       <Street>Alaskan Way</Street>
       <City>Seattle</City>
       <State>WA</State>
       <Zip>98121</Zip>
-      <NearestAirport>Seattle-Tacoma International Airport</NearestAirport>
     </Address>
   </Hotel>
 
