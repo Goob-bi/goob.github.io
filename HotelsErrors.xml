@@ -119,7 +119,7 @@
   <Hotel>
     <Name>The Liberty, a Luxury Collection Hotel</Name>
     <Phone>617-224-4000</Phone>
-    <Address NearestAirport="Logan International Airport</Neares">
+    <Address NearestAirport="Logan International Airport">
       <Number>215</Number>
       <Street>Charles St</Street>
       <City>Boston</City>
